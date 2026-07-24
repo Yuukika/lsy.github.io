@@ -1,0 +1,12 @@
+include/log.txt
+install/install.lock
+admin/cache.php
+admin/log.txt
+.gitignore
+files/*
+include/webscan.log
+cache
+include/qrcode.png
+.htaccess
+nginx.htaccess
+config.php
